@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/BoxOffice/static/css/main.93052401.chunk.css",
-    "main.js": "/BoxOffice/static/js/main.b2c5eb3c.chunk.js",
-    "main.js.map": "/BoxOffice/static/js/main.b2c5eb3c.chunk.js.map",
+    "main.js": "/BoxOffice/static/js/main.3b8b1af9.chunk.js",
+    "main.js.map": "/BoxOffice/static/js/main.3b8b1af9.chunk.js.map",
     "runtime-main.js": "/BoxOffice/static/js/runtime-main.09a061e4.js",
     "runtime-main.js.map": "/BoxOffice/static/js/runtime-main.09a061e4.js.map",
-    "static/js/2.ae45aaa8.chunk.js": "/BoxOffice/static/js/2.ae45aaa8.chunk.js",
-    "static/js/2.ae45aaa8.chunk.js.map": "/BoxOffice/static/js/2.ae45aaa8.chunk.js.map",
+    "static/js/2.0d5c2648.chunk.js": "/BoxOffice/static/js/2.0d5c2648.chunk.js",
+    "static/js/2.0d5c2648.chunk.js.map": "/BoxOffice/static/js/2.0d5c2648.chunk.js.map",
     "index.html": "/BoxOffice/index.html",
-    "precache-manifest.43ca49ffbff5854f0125a9a8688b5730.js": "/BoxOffice/precache-manifest.43ca49ffbff5854f0125a9a8688b5730.js",
+    "precache-manifest.ecc5d2b9436ff190f1e7e7c6fca4870e.js": "/BoxOffice/precache-manifest.ecc5d2b9436ff190f1e7e7c6fca4870e.js",
     "service-worker.js": "/BoxOffice/service-worker.js",
     "static/css/main.93052401.chunk.css.map": "/BoxOffice/static/css/main.93052401.chunk.css.map",
-    "static/js/2.ae45aaa8.chunk.js.LICENSE.txt": "/BoxOffice/static/js/2.ae45aaa8.chunk.js.LICENSE.txt"
+    "static/js/2.0d5c2648.chunk.js.LICENSE.txt": "/BoxOffice/static/js/2.0d5c2648.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09a061e4.js",
-    "static/js/2.ae45aaa8.chunk.js",
+    "static/js/2.0d5c2648.chunk.js",
     "static/css/main.93052401.chunk.css",
-    "static/js/main.b2c5eb3c.chunk.js"
+    "static/js/main.3b8b1af9.chunk.js"
   ]
 }
