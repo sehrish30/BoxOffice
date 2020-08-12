@@ -11,7 +11,7 @@ import { useShow } from '../misc/custom-hooks';
 const Show = () => {
   const { id } = useParams();
   const { show, isLoading, error } = useShow(id);
-
+  // console.log('show', show);
   if (isLoading) {
     return <div>Data is being rendered</div>;
   }

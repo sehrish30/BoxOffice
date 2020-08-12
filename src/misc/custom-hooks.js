@@ -99,5 +99,4 @@ export function useShow(showId) {
     };
   }, [showId]);
   return state;
-  console.log('show', show);
 }
