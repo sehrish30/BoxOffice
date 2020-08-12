@@ -1,5 +1,6 @@
 import { useReducer, useEffect } from 'react';
 
+//Reducer to star or unstar when user clicks on star button
 function showsReducer(prevState, action) {
   switch (action.type) {
     case 'ADD': {
@@ -17,7 +18,7 @@ function showsReducer(prevState, action) {
 function usePersistedReducer(reducer, initialState, key) {
   const [state, dispatch] = useReducer(reducer, initialState, initial => {
     const persisted = localStorage.getItem(key);
-    return persisited ? JSON.parse(persisted) : initial;
+    return persisted ? JSON.parse(persisted) : initial;
   });
   //Synchronization with local storage
   useEffect(() => {
